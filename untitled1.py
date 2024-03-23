@@ -35,7 +35,7 @@ from sklearn.preprocessing import label_binarize
 
 restaurants = pd.read_csv('Res_dataset.csv', encoding='latin1')
 
-# Cleaned Restaurant name by removing unwanted 
+# Cleaned Restaurant name by removing 
 
 
 def clean_restaurant_name(name):
